@@ -1,3 +1,7 @@
+window.alert(" Suporte Técnico \n De Segunda a Sexta de 08:00 às 19:00.\n\n Plantão Sábados, Domingos e Feriados no telefone \n (81)988027407 e aqui no site \n de 09:00 às 22:00.")
+
+
+
 document.querySelector(".hamburguer").addEventListener("click", () =>
     document.querySelector(".container").classList.toggle("show-menu")
 );

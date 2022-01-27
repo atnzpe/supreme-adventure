@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Área de Trabalho/site-abs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portifolio-master"
+	}
+}
