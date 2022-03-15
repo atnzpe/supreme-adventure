@@ -8,6 +8,7 @@ Com base neste projeto acima, estamos desenvolvendo o [Site da ABS Automação v
 
 ## [Tela de Inicial](http://www.abscard.com.br/)
 
+![image](https://user-images.githubusercontent.com/15948634/158486547-3547229c-b350-4564-b8ca-15d78b13731d.png)
 
 
 
