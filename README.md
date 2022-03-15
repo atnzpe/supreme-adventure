@@ -10,25 +10,17 @@ Com base neste projeto acima, estamos desenvolvendo o [Site da ABS Automação v
 
 ![image](https://user-images.githubusercontent.com/15948634/158486547-3547229c-b350-4564-b8ca-15d78b13731d.png)
 
-
-
-
-![image-20220128195150108](/home/gleyson/.config/Typora/typora-user-images/image-20220128195150108.png)
-
-
-
 ## [Tela de Treinamentos e Consultorias](http://www.abscard.com.br/treinamentos.html)
-
-
-
-![image-20220128195420796](/home/gleyson/.config/Typora/typora-user-images/image-20220128195420796.png)
-
-
+![image](https://user-images.githubusercontent.com/15948634/158486650-f479e615-9b2d-4c70-ab1b-194d35481eaf.png)
 
 ## [Tela de Atendimento do Suporte Técnico](http://www.abscard.com.br/suporte.html)
-
-![image-20220128195629198](/home/gleyson/.config/Typora/typora-user-images/image-20220128195629198.png)
-
+![image](https://user-images.githubusercontent.com/15948634/158486782-cf1fd307-62c3-4f85-9902-4639cd37fee6.png)
 
 
 ### [Meu Profile no Github](https://github.com/atnzpe)
+
+### Para criar este projeto usei:
+
+- HTML;
+- CSS; e
+- JavaScript.
